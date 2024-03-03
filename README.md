@@ -26,6 +26,7 @@ Method 1 (pipenv):
 
 - Install pipenv
 - In terminal run `pipenv install` - this will install dependacies from Pipfile and Pipfile.lock
+- In terminal run `pipenv shell` - this will activate the virtual environment
 - In terminal run `python3 queenProblem.py` - this will run the Python script
   - If `python3` is not found try `python queenProblem.py`
   - If still have problem running script check if Python is installed properly
